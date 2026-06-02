@@ -1,6 +1,6 @@
-# CareSync | Production-Grade Healthcare Management Platform
+# Medicore | Production-Grade Healthcare Management Platform
 
-CareSync is a premium, HIPAA & ISO-27001 security-compliant Healthcare SaaS Management monorepo. It features visual circular telemetry wheels, dynamic appointment booking checkout, ReportLab prescription PDF generators, clinical NLP checkers, WebRTC virtual consulting, and immutable access logs.
+Medicore is a premium, HIPAA & ISO-27001 security-compliant Healthcare SaaS Management monorepo. It features visual circular telemetry wheels, dynamic appointment booking checkout, ReportLab prescription PDF generators, clinical NLP checkers, WebRTC virtual consulting, and immutable access logs.
 
 ---
 
