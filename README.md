@@ -93,4 +93,11 @@ To run without Docker using the built-in SQLite automatic database fallback:
 
 
 
+Live link:
+
+https://medicorebymav.netlify.app/
+
+
+
+
 ~By Team Mavericks
