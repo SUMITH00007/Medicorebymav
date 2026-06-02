@@ -88,3 +88,9 @@ To run without Docker using the built-in SQLite automatic database fallback:
    npm run dev
    ```
 4. Open [http://localhost:3000](http://localhost:3000) in your browser. Use the top navigation bar or the floating theme controls to test dark mode and the integrated clinical chatbots.
+
+
+
+
+
+~By Team Mavericks
