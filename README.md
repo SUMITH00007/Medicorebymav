@@ -14,7 +14,7 @@ Medicore is a premium, HIPAA & ISO-27001 security-compliant Healthcare SaaS Mana
 
 ## Monorepo Project Layout
 ```
-caresync/
+Medicore/
 ├── backend/
 │   ├── app/
 │   │   ├── core/           # Database configurations, JWT checkers, and authorization dependencies
